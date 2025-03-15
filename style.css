@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.btn {
+  background-color: green;
+  height: 100px;
+  width: 150px;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn2 {
+  background-color: blue;
+  height: 100px;
+  width: 150px;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn3 {
+  background-color: red;
+  height: 100px;
+  width: 150px;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn4 {
+  background-color: yellow;
+  height: 100px;
+  width: 150px;
+  border-radius: 10px;
+  border: none;
+}
